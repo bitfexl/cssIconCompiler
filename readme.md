@@ -32,4 +32,4 @@ There is also a light version available for each icon:
 
 
 
-A script to copy the name of the icon on https://feathericons.com/ when clicked can be found here: https://gist.github.com/bitfexl/0073a5997a7effb664b5dc8dd57d1736
+A script to copy the name of the icon at https://feathericons.com/ when clicked can be found here: https://gist.github.com/bitfexl/0073a5997a7effb664b5dc8dd57d1736
